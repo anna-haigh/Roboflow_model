@@ -1,4 +1,4 @@
-# Workflow Runner - Image Analysis Pipeline
+# Workflow Runner
 
 ## Overview
 
@@ -129,3 +129,4 @@ corrected_area = area_ratio × 6
 ```
 
 This assumes the instrument provides a 6 cm² reference area for scale calibration.
+
