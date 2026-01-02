@@ -99,7 +99,7 @@ def run_workflow(client, image_path):
     # Run workflow
     result = client.run_workflow(
         workspace_name="mastersthesis-d11wq",
-        workflow_id="detect-count-and-visualize-5",
+        workflow_id="detect-count-and-visualize-6",
         images={
             "image": image_path
         },
